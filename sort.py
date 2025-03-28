@@ -1,6 +1,6 @@
 def sort(width, height, length, mass):
   volumn = width * height * length
-  isBulky = volumn >= 1000000 or max(width, height, leng) >= 150
+  isBulky = volumn >= 1000000 or max(width, height, length) >= 150
   isHeavy = mass >= 20
 
   if isBulky and isHeavy:
