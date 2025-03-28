@@ -5,7 +5,7 @@ NOTE:
 width, height, and length are measured in centimeters
 mass is masured in kg
 
-bukly if the volume of the package is >= 1000000 cm(cube)
+bukly if the volume of the package is >= 1000000 cm(cube) or either length or width or height >= 150cm
 heavy if the mass is >= 20 kg
 
 To run this function, call the function is the following way:
